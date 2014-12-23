@@ -1,0 +1,15 @@
+{
+  "name": "Hola Mundo",
+  "description": "Mi primera aplicacion para Firefox OS",
+  "icons": {
+    "60": "/imagenes/icons/icon_60.png",
+    "128": "/imagenes/icons/icon_128.png"
+  },
+  "developer": {
+    "name": "Cristhian Alberto Motoche Macas",
+    "url": "http://github.com/CristhianMotoche"
+  },
+  "launch_path": "/index.html",
+  "defaul_locale": "es",
+  "fullscreen": true
+}
